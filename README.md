@@ -1,16 +1,15 @@
-### Hi there 👋
+### ♦️ My GitHub Profile ♦️
 
-<!--
-**m4knV/m4knV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, my name is Nikolaos Makaritis. <br />I am an Electrical and Computer Engineer, MSc. - in Electrical and Computer Engineering (With Honors) - Member of Technical Chamber of Greece.<br />
+Several years of experience in Programming (Python, Javascript, C, Bash), Backend Development, Cloud Engineering and Embedded Systems, Linux Distribution Systems.
 
-Here are some ideas to get you started:
+🏙️ Now I live in Volos, Greece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m working at IBO/Certh
+- 📫 How to reach me: nikosmakaritis@gmail.com or LinkedIn https://www.linkedin.com/in/nikolaos-makaritis/
+
+### 🌎 My Languages 🌎
+
+- 🇬🇷 Greek: Native
+- 🇺🇸 English: C2
+- 🇫🇷 French: C2
