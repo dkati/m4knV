@@ -5,7 +5,7 @@ Several years of experience in Programming (Python, Javascript, C, Bash), Backen
 
 - 🏙️ I live in Volos, Greece
 - 💻 I’m working at IBO/Certh
-- 📫 How to reach me: Email: nikosmakaritis@gmail.com or LinkedIn: https://www.linkedin.com/in/nikolaos-makaritis/
+- 📫 Email: nikosmakaritis@gmail.com, LinkedIn: https://www.linkedin.com/in/nikolaos-makaritis/
 
 ### 🌎 My Languages 🌎
 
